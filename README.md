@@ -3,6 +3,7 @@
 In a new terminal window, execute
 
 $ npm install
+
 $ npm start
 
 This will launch our client on http://localhost:3000.
